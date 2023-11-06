@@ -2,3 +2,17 @@ h1{
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.second1 {
+    color: blue;
+}
+#thirdh1 {
+    color: green;
+}
+.column{
+    border: solid 2px; color: red;
+    flex: 1;
+}
+.column{
+    border: solid 2px; color: blue;
+    display: flex;
+}
