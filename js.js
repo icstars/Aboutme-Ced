@@ -1,4 +1,4 @@
-grabSubmitBtn.addEventListener("click"), (e) => {
+grabSearchInput.addEventListener("click"), (e) => {
     e.preventDefault();
     console.log(SearchInput.value);
 }
